@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Amazon-UI-Clone/static/css/main.0d5ad654.css",
+    "main.js": "/Amazon-UI-Clone/static/js/main.22ff3f24.js",
+    "static/js/787.0e5d44cc.chunk.js": "/Amazon-UI-Clone/static/js/787.0e5d44cc.chunk.js",
+    "static/media/ad.png": "/Amazon-UI-Clone/static/media/ad.68199e8653de76e05977.png",
+    "static/media/tvoffer.png": "/Amazon-UI-Clone/static/media/tvoffer.1ae3956c0368a4edb54e.png",
+    "static/media/offer.png": "/Amazon-UI-Clone/static/media/offer.d563eccccaaf1e0ee999.png",
+    "static/media/Flight.jpg": "/Amazon-UI-Clone/static/media/Flight.3efd5945950f6e741c21.jpg",
+    "static/media/amazon_logo.png": "/Amazon-UI-Clone/static/media/amazon_logo.5ec6844ddb6d618d8fee.png",
+    "static/media/hero_image.jpg": "/Amazon-UI-Clone/static/media/hero_image.620045ce353b8e61f52c.jpg",
+    "static/media/box7_image.jpg": "/Amazon-UI-Clone/static/media/box7_image.e70baeea25d9ce00f6dc.jpg",
+    "static/media/box6_image.jpg": "/Amazon-UI-Clone/static/media/box6_image.2ba012bf94fd8ea0b64c.jpg",
+    "static/media/box5_image.jpg": "/Amazon-UI-Clone/static/media/box5_image.1870128f1a9518ad53f3.jpg",
+    "static/media/box2_image.jpg": "/Amazon-UI-Clone/static/media/box2_image.70f2c22377f898c5297d.jpg",
+    "static/media/box8_image.jpg": "/Amazon-UI-Clone/static/media/box8_image.bbafb3dd7a6a6ed29916.jpg",
+    "static/media/box9.jpg": "/Amazon-UI-Clone/static/media/box9.c52b44b1075090eab787.jpg",
+    "static/media/box10.jpg": "/Amazon-UI-Clone/static/media/box10.63bbd822d4fca906061a.jpg",
+    "static/media/box4_image.jpg": "/Amazon-UI-Clone/static/media/box4_image.34320117541b088734a2.jpg",
+    "static/media/box1_image.jpg": "/Amazon-UI-Clone/static/media/box1_image.670c0c9b0bb020a900f1.jpg",
+    "index.html": "/Amazon-UI-Clone/index.html",
+    "main.0d5ad654.css.map": "/Amazon-UI-Clone/static/css/main.0d5ad654.css.map",
+    "main.22ff3f24.js.map": "/Amazon-UI-Clone/static/js/main.22ff3f24.js.map",
+    "787.0e5d44cc.chunk.js.map": "/Amazon-UI-Clone/static/js/787.0e5d44cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5ad654.css",
+    "static/js/main.22ff3f24.js"
+  ]
+}
